@@ -6,10 +6,6 @@
   (ii) CSS <br>
   (iii)Javascript<br>
 
-### Back-End
-  (i) PHP <br>
-  (ii) MySQL <br>
-
 ## Key Features
 ### Adolescent User
 (i) create user account and login<br>
